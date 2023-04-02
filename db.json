@@ -89,278 +89,361 @@
     ],
     "hotelsoffers" : [
         {
-            "title": "",
+            "title": "Presenting Long Weekend Homestay Mania:",
             "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop-HS-Longweekend-30223.jpg?im=Resize=(134,134)",
+            "desc":"Grab up to 30% OFF* on homestays, for wow stays this weekend",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Now Grab Up to 10% OFF*",
+            "id": 2,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-simpl-03112022.jpg?im=Resize=(134,134)",
+            "desc":"on domestic hotels, outstation cabs & buses for your next trip in India!",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Grab FLAT 15% OFF* on Hotels in India",
+            "id": 3,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-Kotak-DH-31032023.jpg?im=Resize=(134,134)",
+            "desc":"and save BIG on your dream stay",
+            "book": "EXPLORE OFFERS"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Grab Up to 15% OFF* on",
+            "id": 4,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//HSBC_Bank_JFM23_DT_Banner.jpg?im=Resize=(134,134)",
+            "desc":"domestic + international hotels",
+            "book": "VIEW DETAILS"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Now Grab Up to 15% OFF*",
+            "id": 5,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Citi_JFM23_Bank_DT_Banner_IH.jpg?im=Resize=(134,134)",
+            "desc":"on international hotels & get set for your dream trip!",
+            "book": "VIEW DETAILS"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Enjoy Up to 30% OFF* on Vietnam Hotels",
+            "id": 6,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//vietnam-116x116-02122022.jpg?im=Resize=(134,134)",
+            "desc":"& make the most of your trip!",
+            "book": "VIEW DETAILS"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Grab FLAT 15% OFF* on Domestic Hotels",
+            "id": 7,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Citi_JFM23_Bank_DT_Banner_DH.jpg?im=Resize=(134,134)",
+            "desc":"and get set for refreshing stays!",
+            "book": "VIEW DETAILS"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "WOrry-Free Stays Assured at TOP-RATED Affordable P...",
+            "id": 8,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//116x116-MMTValueStays-08082022.jpg?im=Resize=(134,134)",
+            "desc":"Or get 100% Money Back. Book now @ Up to 30% OFF*",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "INTRODUCING Hourly Stays: Stays-by-the-Hour That C...",
+            "id": 9,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//desktop-HourlyStay-new-171022.jpg?im=Resize=(134,134)",
+            "desc":"with flexible check-ins for 3,6 or 9 hours!",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "FOR YOU: FLAT 15% OFF*",
+            "id": 10,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Citi_JFM23_Bank_DT_Banner_Home.jpg?im=Resize=(134,134)",
+            "desc":"on homestays for your unique getaways!",
+            "book": "VIEW DETAILS"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "SPEND. EARN. TRAVEL. With Travel Agency ICICI Bank Cr...",
+            "id": 11,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//icici-116x116-09022023.jpg?im=Resize=(134,134)",
+            "desc":"Sign up today & enjoy benifits worth more than Rs. 90,000.",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        }
+          "title": "Now Grab Up to 10% OFF*",
+          "id": 12,
+          "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-simpl-03112022.jpg?im=Resize=(134,134)",
+          "desc":"on domestic hotels, outstation cabs & buses for your next trip in India!",
+          "book": "BOOK NOW"
+      }
 
     ],
     "alloffers" : [
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "img": "",
-            "desc":"",
-            "book": ""
-        }
-
+      {
+        "title": "Grab Up to Rs. 7,500 OFF* on Flights",
+        "id": 1,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-hdfc-df-03112022.jpg?im=Resize=(134,134)",
+        "desc":"& get set for memorable trips in India &amp; abroad.",
+        "book": "BOOK NOW"
+    },
+    {
+        "title": "LIVE NOW: Ramadan Kareem Bonanza",
+        "id": 2,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//Air-India-116x116-29032023.jpg?im=Resize=(134,134)",
+        "desc":"by Air India between UAE and India",
+        "book": "BOOK NOW"
+    },
+    {
+        "title": "LIVE NOW: Alliance Air's Weekend Sale!",
+        "id": 3,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//Air-India-116x116-29032023.jpg?im=Resize=(134,134)",
+        "desc":"Book domestic flights starting @ JUST Rs.999 + get 1 FREE* date change.",
+        "book": "BOOK NOW"
+    },
+    {
+        "title": "Grab FLAT 12% OFF* on Domestic Flights",
+        "id": 4,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-Kotak-DF-31032023.jpg?im=Resize=(134,134)",
+        "desc":"and save BIG on your next vacay",
+        "book": "EXPLORE OFFERS"
+    },
+    {
+        "title": "SALE ALERT: Special Discounts by Thai Smile!",
+        "id": 5,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//thai-smile-116x116-23032023.jpg?im=Resize=(134,134)",
+        "desc":"Grab up to 25% OFF* on international flights",
+        "book": "BOOK NOW"
+    },
+    {
+        "title": "Get Your Journey Insured @ JUST Rs.79*",
+        "id": 6,
+        "img":"https://promos.makemytrip.com/notification/xhdpi//Flights-insurance-116x116.jpg?im=Resize=(134,134)",
+        "desc": "and get claim of up to Rs.3000*",
+        "book": ""
+    },
+    {
+        "title": "Meals for Your Flights @ up to 20% Lower Prices!",
+        "id": 7,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//AncillaryMeals-01092022.jpg?im=Resize=(134,134)",
+        "desc":"New book your meal in advance & save BIG bucks on your journey",
+        "book": "BOOK NOW"
+    },
+    {
+        "title": "SpiceJet Just Launched",
+        "id": 8,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//116x116-Spicejet-22022023.jpg?im=Resize=(134,134)",
+        "desc":"Its New Flights!",
+        "book": "EXPLORE NOW"
+    },
+    {
+        "title": "JUST IN: New International Flights",
+        "id": 9,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-vistara-27112022.jpg?im=Resize=(134,134)",
+        "desc":"by Vistara!",
+        "book": "EXPLORE NOW"
+    },
+    {
+        "title": "Grab Up to 15% OFF* on",
+        "id": 10,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//HSBC_Bank_JFM23_DT_Banner.jpg?im=Resize=(134,134)",
+        "desc":"domestic + international flights",
+        "book": "VIEW DETAILS"
+    },
+    {
+        "title": "A SUPER-SAVER Deal for You: Up to Rs.2000 OFF*",
+        "id": 11,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//df-mmtsuper-116x116-01022023.jpg?im=Resize=(134,134)",
+        "desc":"on domestic flights for your next trip!",
+        "book": "BOOK NOW"
+    },
+    {
+        "title": "For You: Group Booking Benefits on Flights",
+        "id": 12,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//Group-Desktop-Banner-131222.jpg?im=Resize=(134,134)",
+        "desc":"in India! Book 9+ flight tickets together & save more",
+        "book": "BOOK NOW"
+    },
+    {
+      "title": "Presenting Long Weekend Homestay Mania:",
+      "id": 13,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop-HS-Longweekend-30223.jpg?im=Resize=(134,134)",
+      "desc":"Grab up to 30% OFF* on homestays, for wow stays this weekend",
+      "book": "BOOK NOW"
+  },
+  {
+      "title": "Now Grab Up to 10% OFF*",
+      "id": 14,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-simpl-03112022.jpg?im=Resize=(134,134)",
+      "desc":"on domestic hotels, outstation cabs & buses for your next trip in India!",
+      "book": "BOOK NOW"
+  },
+  {
+      "title": "Grab FLAT 15% OFF* on Hotels in India",
+      "id": 15,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-Kotak-DH-31032023.jpg?im=Resize=(134,134)",
+      "desc":"and save BIG on your dream stay",
+      "book": "EXPLORE OFFERS"
+  },
+  {
+      "title": "Grab Up to 15% OFF* on",
+      "id": 16,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//HSBC_Bank_JFM23_DT_Banner.jpg?im=Resize=(134,134)",
+      "desc":"domestic + international hotels",
+      "book": "VIEW DETAILS"
+  },
+  {
+      "title": "Now Grab Up to 15% OFF*",
+      "id": 17,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//Citi_JFM23_Bank_DT_Banner_IH.jpg?im=Resize=(134,134)",
+      "desc":"on international hotels & get set for your dream trip!",
+      "book": "VIEW DETAILS"
+  },
+  {
+      "title": "Enjoy Up to 30% OFF* on Vietnam Hotels",
+      "id": 18,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//vietnam-116x116-02122022.jpg?im=Resize=(134,134)",
+      "desc":"& make the most of your trip!",
+      "book": "VIEW DETAILS"
+  },
+  {
+      "title": "Grab FLAT 15% OFF* on Domestic Hotels",
+      "id": 19,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//Citi_JFM23_Bank_DT_Banner_DH.jpg?im=Resize=(134,134)",
+      "desc":"and get set for refreshing stays!",
+      "book": "VIEW DETAILS"
+  },
+  {
+      "title": "WOrry-Free Stays Assured at TOP-RATED Affordable P...",
+      "id": 20,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//116x116-MMTValueStays-08082022.jpg?im=Resize=(134,134)",
+      "desc":"Or get 100% Money Back. Book now @ Up to 30% OFF*",
+      "book": "BOOK NOW"
+  },
+  {
+      "title": "INTRODUCING Hourly Stays: Stays-by-the-Hour That C...",
+      "id": 21,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//desktop-HourlyStay-new-171022.jpg?im=Resize=(134,134)",
+      "desc":"with flexible check-ins for 3,6 or 9 hours!",
+      "book": "BOOK NOW"
+  },
+  {
+      "title": "FOR YOU: FLAT 15% OFF*",
+      "id": 22,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//Citi_JFM23_Bank_DT_Banner_Home.jpg?im=Resize=(134,134)",
+      "desc":"on homestays for your unique getaways!",
+      "book": "VIEW DETAILS"
+  },
+  {
+      "title": "SPEND. EARN. TRAVEL. With Travel Agency ICICI Bank Cr...",
+      "id": 23,
+      "img": "https://promos.makemytrip.com/notification/xhdpi//icici-116x116-09022023.jpg?im=Resize=(134,134)",
+      "desc":"Sign up today & enjoy benifits worth more than Rs. 90,000.",
+      "book": "BOOK NOW"
+  },
+  {
+    "title": "Now Grab Up to 10% OFF*",
+    "id": 24,
+    "img": "https://promos.makemytrip.com/notification/xhdpi//116X116-simpl-03112022.jpg?im=Resize=(134,134)",
+    "desc":"on domestic hotels, outstation cabs & buses for your next trip in India!",
+    "book": "BOOK NOW"
+},
+{
+  "title": "NO KIDDING SALE Extended till 3rd April!",
+  "id": 25,
+  "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_NoKidding_Prebuzz_29Mar.jpg?im=Resize=(134,134)",
+  "desc":"Grab FLAT 40% OFF on Holiday Packages + Extra 5% on card payments.",
+  "book": "BOOK NOW"
+},
+{
+  "title": "For a Peaceful, Spiritual Break:",
+  "id": 26,
+  "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_Pilgrimage_19July.jpg?im=Resize=(134,134)",
+  "desc":"Grab up to 30% OFF* on our specially-curated pilgrimage holiday packages.",
+  "book": "BOOK NOW"
+},
+{
+  "title": "Introducing: Travel Agency Honeymoon Packages",
+  "id": 27,
+  "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_HoneymoonPackages_23Jan@2x.jpg?im=Resize=(134,134)",
+  "desc":"that #PPromiseToWow.",
+  "book": "BOOK NOW"
+},
+{
+  "title": "For a Thrilling Escape into the Wild:",
+  "id": 28,
+  "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_Wildlife_22Aug@2x.jpg?im=Resize=(134,134)",
+  "desc":"Grab up to 30% OFF* on our specially-curated wildlife holiday packages.",
+  "book": "EXPLORE PACKAGE"
+},
+{
+  "title": "Be a Unique Traveller with 'Travel Agency'",
+  "id": 29,
+  "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop__MakeMyDay_31Jan@2x.jpg?im=Resize=(134,134)",
+  "desc":"",
+  "book": "BOOK NOW"
+},
+{
+"title": "Presenting Long Weekend Homestay Mania:",
+"id": 30,
+"img": "https://promos.makemytrip.com/notification/xhdpi//Desktop-LongWeekend-9Mar@2x.jpg?im=Resize=(134,134)",
+"desc":"Grab FLAT 30% OFF on Holiday Packages.",
+"book": "BOOK NOW"
+},
+{
+"title": "SPEND. EARN. TRAVEL. With Travel Agency ICICI Bank Cr...",
+"id": 31,
+"img": "https://promos.makemytrip.com/notification/xhdpi//icici-116x116-09022023.jpg?im=Resize=(134,134)",
+"desc":"Sign up today & enjoy benifits worth more than Rs. 90,000.",
+"book": "BOOK NOW"
+}
 
     ],
-    "bankoffers" : [
+    "Holidaysffers" : [
         
         {
-            "title": "",
+            "title": "NO KIDDING SALE Extended till 3rd April!",
             "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_NoKidding_Prebuzz_29Mar.jpg?im=Resize=(134,134)",
+            "desc":"Grab FLAT 40% OFF on Holiday Packages + Extra 5% on card payments.",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "For a Peaceful, Spiritual Break:",
+            "id": 2,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_Pilgrimage_19July.jpg?im=Resize=(134,134)",
+            "desc":"Grab up to 30% OFF* on our specially-curated pilgrimage holiday packages.",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "Introducing: Travel Agency Honeymoon Packages",
+            "id": 3,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_HoneymoonPackages_23Jan@2x.jpg?im=Resize=(134,134)",
+            "desc":"that #PPromiseToWow.",
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
+            "title": "For a Thrilling Escape into the Wild:",
+            "id": 4,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop_Wildlife_22Aug@2x.jpg?im=Resize=(134,134)",
+            "desc":"Grab up to 30% OFF* on our specially-curated wildlife holiday packages.",
+            "book": "EXPLORE PACKAGE"
         },
         {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
+            "title": "Be a Unique Traveller with 'Travel Agency'",
+            "id": 5,
+            "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop__MakeMyDay_31Jan@2x.jpg?im=Resize=(134,134)",
             "desc":"",
-            "book": ""
+            "book": "BOOK NOW"
         },
         {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        },
-        {
-            "title": "",
-            "id": 1,
-            "": "",
-            "img": "",
-            "desc":"",
-            "book": ""
-        }
+          "title": "Presenting Long Weekend Homestay Mania:",
+          "id": 6,
+          "img": "https://promos.makemytrip.com/notification/xhdpi//Desktop-LongWeekend-9Mar@2x.jpg?im=Resize=(134,134)",
+          "desc":"Grab FLAT 30% OFF on Holiday Packages.",
+          "book": "BOOK NOW"
+      },
+      {
+        "title": "SPEND. EARN. TRAVEL. With Travel Agency ICICI Bank Cr...",
+        "id": 7,
+        "img": "https://promos.makemytrip.com/notification/xhdpi//icici-116x116-09022023.jpg?im=Resize=(134,134)",
+        "desc":"Sign up today & enjoy benifits worth more than Rs. 90,000.",
+        "book": "BOOK NOW"
+    }
     ]
   }
