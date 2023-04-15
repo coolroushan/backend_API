@@ -445,5 +445,15 @@
         "desc":"Sign up today & enjoy benifits worth more than Rs. 90,000.",
         "book": "BOOK NOW"
     }
+    
+    ],
+    "todos":[
+        {
+            "title": "react-todo",
+            "id":1,
+            "status":false
+        }
     ]
+
+    
   }
